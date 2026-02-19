@@ -1,16 +1,12 @@
 # Hey there 👋 I'm Sonesh Jain
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&repeat=true&random=false&width=450&lines=Serial+Entrepreneur%7CProduct+Builder%7CPro+Vibe+Coder%7CArchitect+%26+Designer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&repeat=true&random=false&width=450&lines=Serial+Entrepreneur%7CProduct+Builder%7CPro+Vibe+Coder%7CArchitect+%26+Designer" alt="Typing SVG" />
 
 > **Execute like an entrepreneur | Think like a scientist | Live like an artist**
 
 ---
 
 ### ⚡ The Discipline of Coding
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Soneshjain&theme=dark&hide_border=true&background=0D1117&stroke=22c55e&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="GitHub Streak" />
-</p>
 
 * **Vibe Coding Mastery**: 400+ hours in 2025 alone, consuming **3Bn+ tokens on Cursor**.
 * **Design Pedigree**: 10,000+ hours of hands-on design experience (2007–2022).
